@@ -1,0 +1,9 @@
+Building GlorylovePoints
+
+See doc/readme-qt.rst for instructions on building GlorylovePoints QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of GlorylovePoints.
+
+See doc/build-*.txt for instructions on building GlorylovePointsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of GlorylovePoints.
